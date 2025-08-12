@@ -1,6 +1,6 @@
 # Hi, I'm Suryadev Chippada 👋
 
-AI Engineer and Computer Science student at TU Darmstadt passionate about computer vision, machine learning, and AI-powered real-time systems.
+AI Engineer and Computer Science student at TU Darmstadt, passionate about computer vision, machine learning, and AI-powered real-time systems.
 
 ---
 
