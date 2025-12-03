@@ -15,7 +15,7 @@ AI Engineer and Computer Science student at TU Darmstadt, passionate about compu
 
 ## 📫 Connect with Me
 
-- GitHub: [Nyx9303](https://github.com/Nyx9303)  
+- GitHub: [Nyx9303]()  
 - LinkedIn: [suryadev-chippada](https://www.linkedin.com/in/suryadev-chippada)  
 - Email: chippadasurya8@gmail.com  
 
