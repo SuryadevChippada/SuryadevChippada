@@ -9,13 +9,13 @@ AI Engineer and Computer Science student at TU Darmstadt, passionate about compu
 - 🔥 AI Engineer @ FLARE Darmstadt, working on wildfire detection with UAVs and computer vision.
 - 🎓 Computer Science student at TU Darmstadt. 
 - 🎮 Game dev hobbyist. 
-- 🌍 Multilingual: English, German, Hindi and Telugu.
+- 🌍 Multilingual: English, German, Hindi & Telugu.
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: [Nyx9303]()  
+- GitHub: [Suryadev Chippada](https://github.com/SuryadevChippada)  
 - LinkedIn: [suryadev-chippada](https://www.linkedin.com/in/suryadev-chippada)  
 - Email: chippadasurya8@gmail.com  
 
