@@ -1,4 +1,5 @@
-# Hi, Im Suryadev Chippada
+# Hi, I'm Suryadev Chippada!
+- Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
 
 ---
 
