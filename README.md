@@ -2,10 +2,6 @@
 - Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
 ---
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=SuryadevChippada&theme=github-dark)
-
----
-
 ## 🚀 About Me
 
 - 🔥 AI Engineer @ FLARE Darmstadt, working on wildfire detection with UAVs and computer vision.
