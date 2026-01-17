@@ -1,6 +1,7 @@
 # Hi, I'm Suryadev Chippada!
 - Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
 ---
+https://pixel-profile.vercel.app/api/github-stats?username=SuryadevChippada
 
 ## 🚀 About Me
 
