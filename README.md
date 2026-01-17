@@ -24,6 +24,4 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SuryadevChippada?cardType=octocat&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=true)](https://git.io/awesome-stats-card)
 
----
 
-![Profile views](https://gpvc.arturio.dev/SuryadevChippada])
