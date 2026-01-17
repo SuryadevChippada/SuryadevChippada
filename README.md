@@ -1,8 +1,5 @@
 # Hi, I'm Suryadev Chippada!
 - Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
-
----
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=SuryadevChippada)
 ---
 
 ## 🚀 About Me
