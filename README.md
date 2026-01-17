@@ -21,3 +21,4 @@
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&cover_image=true&theme=spotify-embed&show_offline=true&background_color=202830&interchange=true&profanity=true&mode=dark&bar_color=202830&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&redirect=true)
