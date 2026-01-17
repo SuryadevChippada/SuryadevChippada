@@ -21,5 +21,5 @@
 
 ---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SuryadevChippada?cardType=octocat&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=true)](https://git.io/awesome-stats-card) || [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&cover_image=true&theme=spotify-embed&show_offline=false&background_color=2d353b&interchange=false&profanity=false&bar_color=2d353b&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SuryadevChippada?cardType=octocat&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=true)](https://git.io/awesome-stats-card) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&cover_image=true&theme=spotify-embed&show_offline=false&background_color=2d353b&interchange=false&profanity=false&bar_color=2d353b&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
