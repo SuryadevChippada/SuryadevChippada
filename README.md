@@ -2,6 +2,9 @@
 - Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
 ---
 
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=SuryadevChippada&theme=github-dark)
+
+---
 
 ## 🚀 About Me
 
