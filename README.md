@@ -24,3 +24,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SuryadevChippada?cardType=octocat&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=true)](https://git.io/awesome-stats-card)
 
+---
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=JetBrain+Mono&fontSize=15&showBorder=false&lineCount=1&hideBg=true&bg=%231e2228&border=%231e2228&line1=css%2Ccss%2C202830%3Breact%2Creact%2C202830%3Blatex%2Clatex%2C202830%3Bmarkdown%2Cmarkdown%2C202830%3Bjava%2Cjava%2C202830%3Bhtml%2Chtml5%2C202830%3Bjavascript%2Cjavascript%2C202830%3Bpython%2Cpython%2C202830%3Bvercel%2Cvercel%2C202830%3Bfirebase%2Cfirebase%2C202830%3Bangular%2Cangular%2C202830%3Bbootstrap%2Cbootstrap%2C202830%3Bopencv%2Copencv%2C202830%3BNeo4j%2CNeo4j%2C202830%3Bnumpy%2Cnumpy%2C202830%3Bpandas%2Cpandas%2C202830%3BPytorch%2Cpytorch+%2C202830%3Btensorflow%2Ctensorflow%2C202830%3Bgit%2Cgit%2C202830%3Bgithub%2Cgithub%2C202830%3Braspberry+pi%2Craspberry+pi%2C202830%3Bnotion%2CNotion%2C202830%3BSteam+%2CSteam+%2C202830%3BUnity%2CUnity+%2C202830%3B)
