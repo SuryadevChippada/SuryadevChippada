@@ -1,5 +1,6 @@
 # Hi, I'm Suryadev Chippada!
 - Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&cover_image=true&theme=default&show_offline=true&background_color=2d353b&interchange=true&profanity=true&bar_color_cover=true&bar_color=2d353b)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2ibon4cpd2pyufkfvvk7g3ta&redirect=true)
 
 ---
 
