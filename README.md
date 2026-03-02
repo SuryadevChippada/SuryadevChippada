@@ -1,21 +1,75 @@
-# Hi, I'm Suryadev Chippada!
-- Computer Vision Engineer & Computer Science Student @ TU Darmstadt.
----
+<h1 align="center">Hey, I'm Suryadev 👋</h1>
+<h3 align="center">Computer Vision & AI · CS Student @ TU Darmstadt · Building things that matter</h3>
+
+<br/>
 
 ## 🚀 About Me
 
-- 🔥 AI Engineer @ FLARE Darmstadt, working on wildfire detection with UAVs and computer vision.
-- 🎓 Computer Science student at TU Darmstadt. 
-- 🎮 Game dev hobbyist. 
-- 🌍 Multilingual: English, German, Hindi & Telugu.
+I'm a Computer Science student at TU Darmstadt with hands-on experience building
+real-time AI systems — from training YOLO models on aerial imagery to deploying
+edge inference pipelines on Raspberry Pi hardware.
+
+Previously co-founded **FLARE** — a student-led UAV wildfire detection project —
+where I led computer vision development from prototype to field testing.
+
+Now focused on my studies and building new projects in AI, CV, and full-stack dev.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suryadev-chippada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chippadasurya8@gmail.com) 
+## 🔥 Past Experience
+
+**Co-Founder & CV Developer — FLARE @ TU Darmstadt** *(Nov 2024 – Feb 2026)*
+- Built real-time smoke & fire detection pipeline using YOLOv8
+- Trained models on curated aerial imagery datasets
+- Deployed edge inference on **Raspberry Pi 5 (AI HAT+)**
+- Competed at **XtraChallenge 2025** — national UAV competition in Valencia, Spain 🇪🇸
 
 ---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+## 🛠️ Tech Stack
 
+**AI / Computer Vision**
+`Python` `PyTorch` `TensorFlow` `OpenCV` `YOLO` `NumPy`
+
+**Web**
+`React` `Angular` `JavaScript` `HTML` `CSS`
+
+**Tools & Systems**
+`Git` `Neo4j` `Raspberry Pi` `n8n` `Shell` `Neovim`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔥 FLARE Wildfire Detection](#) | Edge AI pipeline for UAV-based smoke & fire detection | YOLO · PyTorch · Raspberry Pi |
+| [🌐 Portfolio](https://portfolio-me-surya-dev.vercel.app/) | Personal portfolio site | TypeScript · React · Vercel |
+
+---
+
+## 🎓 Background
+
+- 📍 **TU Darmstadt** — B.Sc. Computer Science *(Oct 2023 – Present)*
+- 🏆 **XtraChallenge 2025** — UAV design & flight competition, Valencia, Spain
+- 📜 ML & Deep Learning · Web Development · Python/Pygame — Udemy (2025)
+- 🌍 English · German · Hindi · Telugu
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryadevChippada&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryadevChippada&layout=compact&theme=dark&hide_border=true" width="38%"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryadev-chippada)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-me-surya-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chippadasurya8@gmail.com)
+
+> 💡 Open to internships in AI/CV, research collaborations, and interesting problems.
