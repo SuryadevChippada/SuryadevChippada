@@ -96,15 +96,6 @@ I focus on applying AI to real-world, physical problems — not just notebooks.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryadevChippada&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryadevChippada&layout=compact&theme=dark&hide_border=true" width="38%"/>
-</p>
-
----
-
 ## 🌍 Languages
 
 English &nbsp;·&nbsp; German &nbsp;·&nbsp; Hindi &nbsp;·&nbsp; Telugu
