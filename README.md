@@ -14,6 +14,9 @@
   <a href="mailto:chippadasurya8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.thegitcity.com/dev/suryadevchippada">
+    <img src="https://img.shields.io/badge/Git%20City-Profile-6A5ACD?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
