@@ -96,10 +96,6 @@ I focus on applying AI to real-world, physical problems — not just notebooks.
 
 ---
 
-[![Git City Profile](https://img.shields.io/badge/Git%20City-Profile-blue)](https://www.thegitcity.com/dev/suryadevchippada)
-
----
-
 ## 🌍 Languages
 
 English &nbsp;·&nbsp; German &nbsp;·&nbsp; Hindi &nbsp;·&nbsp; Telugu
