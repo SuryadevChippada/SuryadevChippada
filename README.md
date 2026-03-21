@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/suryadev-chippada">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio-me-surya-dev.vercel.app/">
+  <a href="https://suryadev-chippada-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:chippadasurya8@gmail.com">
