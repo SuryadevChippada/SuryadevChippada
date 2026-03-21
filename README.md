@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suryadev Chippada 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student @ TU Darmstadt &nbsp;·&nbsp; Computer Vision & AI &nbsp;·&nbsp;</b>
+  <b>Computer Science Student @ TU Darmstadt &nbsp;·&nbsp; Computer Vision & AI </b>
 </p>
 
 <p align="center">
