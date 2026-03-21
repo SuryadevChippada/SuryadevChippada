@@ -83,7 +83,7 @@ I focus on applying AI to real-world, physical problems — not just notebooks.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔥 FLARE Wildfire Detection | YOLO-based smoke & fire detection deployed on edge hardware for UAV-based autonomous monitoring | YOLOv8 · PyTorch · OpenCV · Raspberry Pi 5 |
-| 🌐 [Portfolio](https://portfolio-me-surya-dev.vercel.app/) | Personal portfolio site | TypeScript · React · Vercel |
+| 🌐 [Portfolio](https://suryadev-chippada-portfolio.vercel.app/) | Personal portfolio site | TypeScript · React · Vercel |
 
 ---
 
