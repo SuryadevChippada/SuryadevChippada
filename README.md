@@ -1,1 +1,1 @@
-[![SuryadevChippada's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=SuryadevChippada&theme=neon&style=aura)](https://www.gitskins.com/showcase/SuryadevChippada?skin=studio)
+
