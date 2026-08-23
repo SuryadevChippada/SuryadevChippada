@@ -90,3 +90,12 @@ still figuring out exactly where I want to land — but enjoying the process of 
 
 </div>
 
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/SuryadevChippada?v=1787502600988"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
