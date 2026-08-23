@@ -1,5 +1,4 @@
 {
-  "username": "SuryadevChippada",
   "widgets": [
     {
       "widgetId": "ascii-art",
@@ -11606,6 +11605,5 @@
     "themeMode": "dark",
     "templateStyle": "native_simple"
   },
-  "templateId": "native_simple",
-  "profileSlug": "default"
+  "templateId": "native_simple"
 }
